@@ -1,4 +1,4 @@
-![top_uk_youtubers_2024](https://github.com/simha-p/simha.github.io/assets/107531005/a797625d-c818-443e-96a6-74d916072555)# SIMHA PORTFILO
+# SIMHA PORTFILO
 
 
 # Data Portfolio: Excel to Power BI 
