@@ -1,6 +1,6 @@
 # SIMHA PORTFILO
 
-![Uploading kaggle_to_powerbi.gif…]()
+
 
 # Data Portfolio: Excel to Power BI 
 
