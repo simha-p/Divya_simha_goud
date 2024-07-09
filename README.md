@@ -1,5 +1,6 @@
 # SIMHA PORTFILO
 
+![Uploading kaggle_to_powerbi.gif…]()
 
 # Data Portfolio: Excel to Power BI 
 
@@ -38,11 +39,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 4. Horizontal bar chart 
 
 
-
-
-![Dashboard-Mockup](assets/images/dashboard_mockup.png)
-
-
 ## Tools 
 
 
@@ -64,9 +60,8 @@ Some of the data visuals that may be appropriate in answering our questions incl
 4. Clean the data with SQL
 5. Test the data with SQL
 6. Visualize the data in Power BI
-7. Generate the findings based on the insights
-8. Write the documentation + commentary
-9. Publish the data to GitHub Pages
+7.  Write the documentation 
+8. Publish the data to GitHub Pages
 
 
 
