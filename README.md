@@ -1,5 +1,3 @@
-# DIVYA SIMHA PORTFILO
-
 
 
 # Data Portfolio: Excel to Power BI 
