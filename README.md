@@ -75,11 +75,17 @@ Some of the data visuals that may be appropriate in answering our questions incl
 ## Insights:
 
 **T-series youtube Channel Has 243M subscribers**
+
+
 **Total views for Youtube Channels in India has 875M**
+
+
 **Total Subscribers for Youtube Channels in India has 2.9B**
+
+
 **Average_views_per_Subscriber rate is 0.30**
 
 
 ## Conclusions 
 
-**We can advertise our Brands, Promotions and other Campaigns Strategies through top Youtube Channnels to reach to Wider Customers**
+**We can advertise our Movie Promotions in any of the Top Youtube Channels** 
