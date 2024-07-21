@@ -1,4 +1,9 @@
-## DIVYA SIMHA PORTFILO
+## Top Youtube Channels
+Media_Hub, a Social Media Marketing Company deals with all Promotions,offers,and movie news.
+A movie team has approached Media_Hub for promote their movie to wider Audiences through social media.
+
+The Media_Hub decides to Promote their Movie through Youtube in a Popular Channel and Cost Effective.
+
 
 # Data Portfolio: Excel to Power BI 
 
@@ -67,4 +72,14 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 ![INDIAN_YOUTUBERS](https://github.com/simha-p/simha.github.io/assets/107531005/43024fa3-88ad-4295-b041-411cafbec5a7)
 
+## Insights:
 
+**T-series youtube Channel Has 243M subscribers**
+**Total views for Youtube Channels in India has 875M**
+**Total Subscribers for Youtube Channels in India has 2.9B**
+**Average_views_per_Subscriber rate is 0.30**
+
+
+## Conclusions 
+
+**We can advertise our Brands, Promotions and other Campaigns Strategies through top Youtube Channnels to reach to Wider Customers**
